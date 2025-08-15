@@ -35,6 +35,6 @@ tmp/
 temp/
 
 # Uploads
-uploads/
+uploads/*
 
 
